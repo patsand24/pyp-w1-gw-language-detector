@@ -5,4 +5,4 @@ mkvirt# -*- coding: utf-8 -*-
 def detect_language(text, languages):
     """Returns the detected language of given text."""
     # implement your solution here
-    return 'Spanish'
+    return 'Spanish'aa
